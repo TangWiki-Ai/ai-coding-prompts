@@ -1,4 +1,6 @@
-# AI Coding 笔试速通：6 段提示词
+# AI Coding Prompts
+
+中文名：AI Coding 笔试速通提示词。
 
 适用场景：AI Coding 笔试、已有工程改造题、README 需求实现题、带测试反馈的开发题。
 

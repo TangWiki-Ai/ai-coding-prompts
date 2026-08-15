@@ -1,6 +1,6 @@
-# 速通 AI Coding
+# AI Coding Prompts
 
-这是一套给 AI Coding 笔试用的提示词模板。
+这是一套给 AI Coding 笔试用的提示词模板。中文名可以叫：AI Coding 笔试速通提示词。
 
 它适合这些场景：
 
